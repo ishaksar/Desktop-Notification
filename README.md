@@ -1,4 +1,4 @@
-Water Reminder App 
+Tkier App 
 
 This Python application uses Tkinter to display desktop notifications that regularly remind the user to drink water. Every hour, a popup window appears on the screen asking if the user has had water recently. 
 
